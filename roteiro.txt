@@ -1,0 +1,5 @@
+G:\
+
+cd G:\webappCHECKin
+conda activate streamlit
+streamlit run checkinFABLAB.py
